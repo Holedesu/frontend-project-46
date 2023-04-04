@@ -6,5 +6,5 @@ parserOptions:
   ecmaVersion: latest
   sourceType: module
 rules: {
-#  eslint no-console: "error"
+  eslint no-console: "error"
 }
