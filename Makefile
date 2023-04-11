@@ -11,4 +11,4 @@ fix-lint:
 	npx eslint --fix .
 
 gendiff:
-	node bin/gendiff.js -h
+	node bin/gendiff.js
